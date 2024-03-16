@@ -1,0 +1,30 @@
+.calculator {
+    margin: 100px auto;
+    text-align: center;
+    margin-top: 240px;
+}
+
+input, button {
+    margin: 5px;
+    padding: 8px;
+    border-radius: 16px;
+    width: 133px;
+    padding-top: 10px; 
+    box-sizing: content-box;
+}
+
+button {
+    background-color: #e22f4a;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.Simple{
+    text-align: center;
+    color:#e22f4a;
+}
+body{
+    background-color: rgb(240, 238, 238);
+    height: 100vh;
+}
